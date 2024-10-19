@@ -1,0 +1,19 @@
+.header {
+  img {
+    @apply w-40;
+  }
+  p {
+    font-size: 35px;
+    color: wheat;
+  }
+  button {
+    padding: 15px 25px;
+    border-radius: 6px;
+    color: white;
+    background-color: red;
+    transition: all 0.3s;
+    &:hover {
+      background-color: purple;
+    }
+  }
+}

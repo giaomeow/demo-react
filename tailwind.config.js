@@ -7,6 +7,12 @@ export default {
         "header-padding": "30px",
         "section-padding": "80px",
       },
+      aspectRatio: {
+        "phim-img": "4 / 3",
+      },
+    },
+    container: {
+      center: true,
     },
   },
   plugins: [],
